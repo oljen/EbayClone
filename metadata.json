@@ -1,0 +1,5 @@
+{
+  "name": "eBay Clone Hackathon Demo",
+  "description": "A high-fidelity eBay marketplace clone designed for testing AI browser agents. Includes a comprehensive listing form with static IDs, a searchable marketplace grid, and a detailed product view using local storage for data persistence.",
+  "requestFramePermissions": []
+}
